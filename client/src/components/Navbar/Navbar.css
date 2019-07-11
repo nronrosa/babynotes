@@ -1,0 +1,79 @@
+.navbar {
+  width: 100%;
+  align-items: center;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background: rgb(69, 180, 147);
+  height: 5em;
+  padding: 5px;
+  /* margin-bottom: 0em; */
+  margin-bottom: 80px;
+  float: left;
+  color: white;
+  flex: 1;
+  justify-content: "flex-end";
+  box-shadow: 2px 2px 10px rgb(41, 97, 43);
+  font-family: "Julius Sans One", sans-serif;
+}
+
+.navigation {
+  display: flex;
+  height: 100%;
+  /* padding: 0 1rem; */
+}
+
+.navbar-items ul {
+  list-style: none;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: flex;
+  text-align: center;
+}
+
+.navbar-logo {
+  /* margin-left: 1rem; */
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  margin-top: 0.5em;
+}
+
+.navbar-items li {
+  padding: 1rem;
+  float: left;
+}
+
+.navbar-items a {
+  color: white;
+  font-size: 1.4em;
+  text-shadow: 1px 1px 4px rgb(4, 41, 21);
+  text-decoration: none;
+}
+
+.navbar-items a:hover,
+.navbar-items a:active {
+  color: rgb(154, 250, 183);
+  text-shadow: 1px 1px 4px rgb(4, 41, 21);
+}
+
+.navbar-logo a {
+  color: white;
+  font-size: 1.4em;
+  text-shadow: 1px 1px 4px black;
+  text-decoration: none;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+.logoutBtn {
+  /* background-color: rgb(4, 86, 97); */
+  color: white;
+  font-family: "Julius Sans One", sans-serif !important;
+  /* font-size: 1.4rem; */
+  margin-top: 5px;
+  padding:10px;
+  float: right;
+}
+.fa-power-off {
+  margin:5px;
+}

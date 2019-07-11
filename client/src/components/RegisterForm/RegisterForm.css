@@ -1,0 +1,91 @@
+  
+  /* .App__Form {
+    width: 50%;
+    background-color: #2E4158;
+    padding: 25px 40px;
+    overflow: auto;
+  }
+   */
+
+  .FormCenter {
+    margin-bottom: 10px;
+    margin-top:40px;
+  }
+  
+  .FormField {
+    margin-bottom:40px;
+    text-align: center !important;
+  }
+  
+  .FormField__Label {
+    background-color: rgb(108, 218, 199);
+    display: block;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 1.5em;
+    color: white;
+    border-radius: 15px;
+
+    text-shadow: 1px 1px 2px rgb(3, 54, 56);
+    font-family: 'Julius Sans One', sans-serif;
+  }
+  .FormField__Input {
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    color: rgb(21, 110, 110) !important;
+    outline: none;
+    border-bottom: 1px solid #3de7bd;
+    font-size: 1.2em;
+    font-weight: 600;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    text-shadow: 0px 0px 1px rgb(255, 255, 255) !important;
+    font-family: 'Julius Sans One', sans-serif;
+  }
+/*   
+  .FormField__Input::placeholder {
+    color: #616E7F;
+  } */
+  
+  .FormField__Button {
+    background-color: rgb(34, 121, 112);
+    color: white;
+    border: none;
+    outline: none;
+    text-shadow: 1px 1px 3px navy;
+    border-radius: 25px;
+    padding: 10px 40px;
+    padding-top: 13px;
+    margin: 7px;
+    margin-left: 8em;
+    font-size: .8em;
+    font-weight: 500;
+    float: left;
+    box-shadow:1px 2px 5px rgb(29, 84, 129);
+    font-family: 'Satisfy', cursive;
+    
+  }
+
+.FormField__Button2Cancel {
+  background-color: rgb(199, 189, 52);
+  color: white;
+  border: none;
+  outline: none;
+  text-shadow: 1px 1px 3px navy;
+  border-radius: 25px;
+  padding: 10px 40px;
+  margin: 7px;
+  margin-left: 4em;
+  font-size: .8em;
+  font-weight: 500;
+  float: left;
+  box-shadow:1px 2px 5px rgb(29, 84, 129);
+  font-family: 'Satisfy', cursive;
+}
+  
+  
+  
+   
+  
+  

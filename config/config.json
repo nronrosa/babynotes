@@ -1,0 +1,25 @@
+{
+    "development": {
+      "username": "trilogy2",
+      "password": "password123",
+      "database": "babyNotesdb",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "root",
+      "password": null,
+      "database": "database_test",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    },
+    "production": {
+      "use_env_variable": "JAWSDB_URL",
+      "username": "r4u7yqbmyg3lntjo",
+      "password": "u7x13gy8c6c0pdyi",
+      "database": "lk57jrhtngm1ex7s",
+      "host": "x3ztd854gaa7on6s.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+      "dialect": "mysql"
+    }
+  }
+  

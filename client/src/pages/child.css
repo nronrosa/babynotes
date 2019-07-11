@@ -1,0 +1,54 @@
+.tableElement {
+  margin-left: 4.25rem;
+  /* padding-left: 8rem; */
+  color: white !important;
+  text-shadow: 1px 1px 3px black;
+  box-lines: black;
+}
+.ReactTable,
+.rt-tbody .rt-tr {
+  border: 1px solid rgba(0, 0, 0, 0.3) !important;
+  background: rgba(17, 182, 132, 0.9) !important;
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 600;
+  text-shadow: 0px 0px 3px black;
+  
+}
+.tableHeader {
+  text-align: center;
+  text-shadow: none !important;
+  color:  rgb(5, 104, 74) !important; 
+  font-weight: 700;
+  box-shadow: 0px 0px 3px rgb(158, 180, 180);
+  padding-bottom:15px;
+  padding-top:10px;
+  margin-top: 10px;
+  margin-bottom:-5px;
+  border-radius: 10px;
+  background-color: rgba(236, 255, 249, 0.973);
+  font-family: 'Satisfy', cursive;
+  text-shadow: 1px 1px 3px white;
+}
+.notesText {
+  color: white;
+  text-shadow: 1px 1px 3px black !important;
+}
+.kidTitle {
+  text-align: center;
+  margin-top: 10px;
+  color: rgb(3, 70, 64) !important;
+  text-shadow: 1px 1px 3px white !important;
+  font-family: 'Satisfy', cursive;
+  font-size:5em;
+}
+.kidsBtn {
+  /* box-shadow: 2px 2px 3px rgb(43, 77, 60); */
+  color: white;
+  /* background-color: rgb(25, 189, 107); */
+  /* border-radius: 10px; */
+  font-weight: 600;
+ text-align: center !important;
+  text-shadow: 0px 0px 2px rgb(0, 0, 0);
+  margin:5px;
+  font-family: 'Julius Sans One', sans-serif;
+}

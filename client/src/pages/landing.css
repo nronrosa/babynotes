@@ -1,0 +1,53 @@
+/* Title FONT */
+.welcomeTitle {
+    color: white;
+    text-shadow: 1px 1px 2px rgb(2, 92, 87);
+    font-family: 'Satisfy', cursive;
+   font-size: 6rem;
+}
+/* text on 3 carousel */
+.carouselText3 {
+    color:black !important;
+    font-weight:800 !important;
+    font-family: 'Julius Sans One', sans-serif;
+    text-shadow: 0px 0x 1px rgb(0, 0, 0) !important;
+}
+/* text on 1&2 carousel */
+.carouselText {
+    color: white;
+    text-shadow: 1px 1px 3px rgb(0, 0, 0);
+    font-family: 'Julius Sans One', sans-serif;
+    font-weight: 800;
+}
+/* Title on 3 carousel */
+.welcomeTitle3 {
+    color:rgb(2, 92, 87);
+    text-shadow: 1px 1px 2px white;
+    font-family: 'Satisfy', cursive;
+   font-size: 10rem;
+}
+/* Buttons on carousel 2 Sign in */
+.carouselBtn2 {
+    background-color: rgb(4, 86, 97);
+    color:white;
+}
+/* Buttons on carousel 1 Sign up */
+.carouselBtn1 {
+    background-color: rgb(84, 173, 136);
+}
+/* Buttons on carousel 2 LINK */
+.carouselBtn2 :any-link , .carouselBtn1 :any-link {
+    color: whitesmoke;
+    font-size: 1.5rem;
+    font-family: 'Satisfy', cursive;
+}
+/* Carousel SIZE */
+.d-block {
+   width:100%;
+   background-size: cover;
+   height: 44em; 
+}
+/* Carousel Space banner */
+.carousel-caption {
+    margin-bottom: 5em;
+}
